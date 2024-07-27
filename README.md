@@ -6,6 +6,9 @@ Market Tracker is a service designed to help users track the variation of prices
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/AndreGraca3/Market-Tracker/blob/main/LICENSE)
 
+## Final Grade
+17/20
+
 ## Features 🌟
 
 - **Variation Analysis**: Users can view the variation of prices over time for a specific item.
